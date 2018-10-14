@@ -2,6 +2,6 @@
 [Ruby] SLMail 5.5 - Buffer Overflow
 
 # Usage
-Set target\n
-Wait...\n
+Set target
+Wait...
 pwn :p
